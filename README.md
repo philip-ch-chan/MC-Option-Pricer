@@ -18,6 +18,15 @@ variance reduction and finite-difference methods.
 - Use common random numbers to reduce the variance of Greek estimates
 - Investigate the effect of finite-difference step size on Gamma
 
+## Methods
+
+The project will use:
+
+* Python
+* NumPy
+* Pandas
+* Matplotlib
+
 ## Mathematical Model
 
 Under the risk-neutral Black-Scholes model, the terminal stock price is
