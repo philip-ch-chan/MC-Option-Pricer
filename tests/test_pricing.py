@@ -1,7 +1,7 @@
 import numpy as np
 
-from src.black_scholes import call_price,put_price
-from src.monte_carlo import monte_carlo_call_price_crn,monte_carlo_put_price_crn
+from black_scholes import call_price,put_price
+from monte_carlo import monte_carlo_call_price_crn,monte_carlo_put_price_crn
 
 S_0 = 100
 r = 0.05
